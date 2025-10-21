@@ -1,1 +1,1 @@
-# Disaster-prediction-with-edge-ai-demo-
+# Disaster-prediction-with-edge-ai-demo
