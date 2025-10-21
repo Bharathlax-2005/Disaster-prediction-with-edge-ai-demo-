@@ -1,0 +1,22 @@
+{
+  "flood": {
+    "low": 0.3,
+    "medium": 0.6,
+    "high": 0.8,
+    "critical": 0.95
+  },
+  "earthquake": {
+    "low": 0.4,
+    "medium": 0.65,
+    "high": 0.85,
+    "critical": 0.95
+  },
+  "cyclone": {
+    "low": 0.35,
+    "medium": 0.6,
+    "high": 0.8,
+    "critical": 0.9
+  },
+  "alert_cooldown_seconds": 30,
+  "simulation_speed_factor": 1.0
+}

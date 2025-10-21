@@ -1,0 +1,21 @@
+{
+  "flood": {
+    "model_type": "RandomForest",
+    "features": ["rainfall_mm", "humidity_percent", "pressure_hpa", "river_level_m", "soil_moisture"],
+    "tflite_path": "models/flood_tflite_model.tflite",
+    "pkl_path": "models/flood_model.pkl"
+  },
+  "earthquake": {
+    "model_type": "XGBoost",
+    "features": ["magnitude", "depth_km", "latitude", "longitude", "gap", "dmin", "rms"],
+    "tflite_path": "models/earthquake_tflite_model.tflite",
+    "pkl_path": "models/earthquake_model.pkl"
+  },
+  "cyclone": {
+    "model_type": "LSTM",
+    "features": ["wind_speed_kmh", "sea_pressure_hpa", "temperature_c", "humidity_percent", "wave_height_m"],
+    "tflite_path": "models/cyclone_tflite_model.tflite",
+    "pkl_path": "models/cyclone_model.pkl",
+    "sequence_length": 10
+  }
+}

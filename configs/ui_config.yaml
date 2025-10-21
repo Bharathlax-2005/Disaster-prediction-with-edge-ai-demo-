@@ -1,0 +1,28 @@
+theme:
+  primary_color: "#FF4B4B"
+  background_color: "#0E1117"
+  secondary_background_color: "#262730"
+  text_color: "#FAFAFA"
+  font: "sans serif"
+
+risk_colors:
+  safe: "#00FF00"      # Green
+  low: "#FFFF00"       # Yellow
+  medium: "#FFA500"    # Orange
+  high: "#FF4500"      # Orange Red
+  critical: "#FF0000"  # Red
+
+dashboard:
+  title: "🌍 Multi-Disaster Edge AI Monitor"
+  refresh_interval: 2
+  max_history_points: 100
+  
+alerts:
+  sound_enabled: true
+  visual_enabled: true
+  log_enabled: true
+  notification_duration: 5
+  
+simulation:
+  update_frequency_hz: 1
+  data_noise_factor: 0.1

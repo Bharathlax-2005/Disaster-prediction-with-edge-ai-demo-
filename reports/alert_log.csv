@@ -1,0 +1,12 @@
+timestamp,disaster_type,risk_level,risk_score,alert_message,acknowledged
+2025-10-21T13:13:16.253225,cyclone,MEDIUM,0.6274,⚠️ Cyclone watch - Secure outdoor items (Score: 0.63),False
+2025-10-21T13:13:19.463642,earthquake,MEDIUM,0.6656,⚠️ Moderate earthquake risk - Secure loose objects (Score: 0.67),False
+2025-10-21T13:14:56.361137,earthquake,MEDIUM,0.6762,⚠️ Moderate earthquake risk - Secure loose objects (Score: 0.68),False
+2025-10-21T13:17:39.801435,earthquake,MEDIUM,0.6695,⚠️ Moderate earthquake risk - Secure loose objects (Score: 0.67),False
+2025-10-21T13:17:56.632354,earthquake,HIGH,0.8662,🚨 HIGH EARTHQUAKE RISK - Take cover immediately (Score: 0.87),False
+2025-10-21T13:17:58.967340,earthquake,HIGH,0.8865,🚨 HIGH EARTHQUAKE RISK - Take cover immediately (Score: 0.89),False
+2025-10-21T13:18:07.344356,earthquake,MEDIUM,0.6923,⚠️ Moderate earthquake risk - Secure loose objects (Score: 0.69),False
+2025-10-21T13:19:01.317669,cyclone,MEDIUM,0.6153,⚠️ Cyclone watch - Secure outdoor items (Score: 0.62),False
+2025-10-21T13:20:15.875088,earthquake,MEDIUM,0.7825,⚠️ Moderate earthquake risk - Secure loose objects (Score: 0.78),False
+2025-10-21T13:20:23.874387,cyclone,MEDIUM,0.6205,⚠️ Cyclone watch - Secure outdoor items (Score: 0.62),False
+2025-10-21T13:20:42.624633,cyclone,MEDIUM,0.6769,⚠️ Cyclone watch - Secure outdoor items (Score: 0.68),False

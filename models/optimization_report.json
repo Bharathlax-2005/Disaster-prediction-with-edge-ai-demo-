@@ -1,0 +1,9 @@
+{
+  "optimized_model_sizes_mb": {
+    "flood": 0.009014129638671875,
+    "earthquake": 0.009296417236328125,
+    "cyclone": 0.00905609130859375
+  },
+  "total_size_mb": 0.02736663818359375,
+  "optimization_technique": "TensorFlow Lite + Float16 Quantization"
+}
